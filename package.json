@@ -1,8 +1,7 @@
 {
-    "name": "helloworldapp",
+    "name": "helloworld",
     "description": "HelloWolrd NodeJS App",
-    "scripts": 
-    {
+    "scripts": {
         "start": "node app.js"
     },
     "dependencies": {
